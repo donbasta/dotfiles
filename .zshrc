@@ -1,1 +1,0 @@
-/Users/farras.faddila/.zshrc
