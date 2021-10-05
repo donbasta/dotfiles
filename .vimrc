@@ -48,3 +48,12 @@ colorscheme onedark
 filetype plugin indent on
 set tabstop=2 shiftwidth=2 expandtab
 
+if has("gui_running")
+  set macligatures
+  set guifont=Fira\ Code:h12
+endif
+
+set backupdir=/tmp//
+set directory=/tmp//
+set undodir=/tmp//
+
